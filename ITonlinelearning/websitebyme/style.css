@@ -1,0 +1,11 @@
+h1 {
+  font-size: 80;
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#orangeparagrapgh {
+  font-size: 10;
+  color: rgb(139, 28, 0);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
